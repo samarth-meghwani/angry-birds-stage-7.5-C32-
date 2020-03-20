@@ -1,1 +1,2 @@
-# angry-birds-stage-7.5-C32-
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
